@@ -1,0 +1,36 @@
+footer {
+  border-top: 2px solid #222222;
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+h4 {
+  display: inline-block;
+  margin: 0.4025rem 0.805rem 0.4025rem 0;
+  vertical-align: text-bottom;
+}
+
+.icons {
+  display: inline-block;
+  font-size: 1.8rem;
+  margin: 0.4025rem 0.805rem 0.4025rem 0;
+}
+
+.icons > a {
+  color: #222222;
+  transition-property: color;
+  transition-duration: 200ms;
+}
+
+.icons > a:hover {
+  color: #CC0033;
+  transition-property: color;
+  transition-duration: 200ms;
+}
+
+@media only screen and (max-width: 750px) {
+  footer {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
