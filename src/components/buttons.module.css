@@ -1,0 +1,22 @@
+.button-link {
+    background-color: #222222;
+    border-radius: 0.6em;
+    border-style: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 0.5em;
+    text-decoration: none;
+    transition-duration: 200ms;
+}
+
+.button-link:hover {
+    background-color: #CC0033;
+    transition-duration: 200ms;
+    transition-property: background-color;
+}
+
+.center-button {
+    display: block;
+    width: fit-content;
+    margin: 1em auto;
+}

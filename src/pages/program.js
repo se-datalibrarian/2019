@@ -1,11 +1,13 @@
 import React from 'react'
 import Layout from '../components/layout'
+import buttons from '../components/buttons.module.css'
 import SEO from "../components/seo"
 
 export default () => (
   <Layout>
     <SEO title="Program" />
     <h1>Program</h1>
-    <p>The conference planning committee is currently organizing the program. If you are interested in proposing a topic please email <a href="mailto:se.datalibrarian@gmail.com">se.datalibrarian@gmail.com</a>. See the <a href="https://se-datalibrarian.github.io/2018/program/">2018 symposium program</a> for a reference of past topics.</p>
+    <p>The Southeast Data Librarian Symposium (SEDLS) is currently accepting proposals for workshops, short talks, and poster presentations for SEDLS 2019! We are also seeking prospective panelists on several topics.</p>
+    <a className={`${buttons.buttonLink} ${buttons.centerButton}`} href="https://docs.google.com/forms/d/e/1FAIpQLSeQbqCugN7tCuu1NCc6Fs3V2aYW0YfQFRkO1CLJtgFx05-WFw/viewform?usp=sf_link">Submit a proposal</a>
   </Layout>
 )
