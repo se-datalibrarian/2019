@@ -90,8 +90,14 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
+<!-- AUTO-GENERATED-CONTENT:END -->
+
 ## 💫 Deploy
 
-- **[Deploy to GitHub Pages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/)**
+- The website for the 2019 Southeast Data Librarian Symposium is hosted on Github Pages (https://se-datalibrarian.github.io/2019/). This project was setup to be deployed to GitHub Pages using the following instructions **[Deploy to GitHub Pages](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/)**
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+- To deploy this site to the se-datalibrarian.github.io/2019 URL run the command:
+
+    ```sh
+    npm run deploy
+    ```
