@@ -68,13 +68,13 @@ nav {
     top: 0;
     transform: translateX(-100%);
     transition-property: transform;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 
   nav.slide-out {
     transform: translateX(0);
     transition-property: transform;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 
   .page-links > li {
@@ -91,13 +91,13 @@ nav {
     cursor: pointer;
     vertical-align: top;
     transition-property: color;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 
   .mobile-menu > svg:hover {
     color: #71C5E8;
     transition-property: color;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 
   .close-mobile-menu {
@@ -112,12 +112,12 @@ nav {
     cursor: pointer;
     vertical-align: top;
     transition-property: color;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 
   .close-mobile-menu > svg:hover {
     color: #71C5E8;
     transition-property: color;
-    transition-duration: 200ms;
+    transition-duration: 300ms;
   }
 }
