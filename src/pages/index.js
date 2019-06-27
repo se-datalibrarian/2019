@@ -6,22 +6,16 @@ import buttons from '../components/buttons.module.css'
 import container from '../components/containers.module.css'
 import SEO from "../components/seo"
 // import logo from '../images/SEDLSlogo.png'
+import Logo from "../images/svg/logo-wide-tulane.svg"
 
 export default () => (
   <Layout>
     <SEO title="Home" keywords={[`librarian`, `data librarian`, `research data`, `data management`, `data visualization`]} />
-    {/* <img
-      css={css`
-        display: block;
-        margin: 0 auto 1.61rem;
-        width: 300px;
-        max-width: 90%;
-      `}
-      src={logo} alt="Southeast Data Librarian Symposium Logo" /> */}
     <div className={`${container.container} ${container.containerAnnouncement}`}>
       <p>The SEDLS is currently accepting proposals for workshops, short talks, and poster presentations for SEDLS 2019! We are also seeking prospective panelists on several topics.</p>
       <a className={`${buttons.buttonLink} ${buttons.centerButton}`} href="https://docs.google.com/forms/d/e/1FAIpQLSeQbqCugN7tCuu1NCc6Fs3V2aYW0YfQFRkO1CLJtgFx05-WFw/viewform?usp=sf_link">Submit a proposal</a>
     </div>
+    <Logo style={{ "maxHeight": "250px" }}/>
     <h3 style={{ "display": "block", "textAlign": "center" }}>The 2019 Southeast Data Librarian Symposium</h3>
     <h3 style={{ "display": "block", "textAlign": "center" }}>Tulane University in New Orleans, LA</h3>
     <h3 style={{ "display": "block", "textAlign": "center" }}>October 10-11</h3>
