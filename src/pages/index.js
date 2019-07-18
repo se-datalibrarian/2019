@@ -5,7 +5,6 @@ import Layout from '../components/layout'
 import buttons from '../components/buttons.module.css'
 import container from '../components/containers.module.css'
 import SEO from "../components/seo"
-// import logo from '../images/SEDLSlogo.png'
 import Logo from "../images/svg/logo-wide-tulane.svg"
 
 export default () => (

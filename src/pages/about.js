@@ -1,6 +1,8 @@
 import React from 'react'
 import Layout from '../components/layout'
 import SEO from "../components/seo"
+import TulaneLogo from '../images/TulaneShield.png'
+import XavierLogo from '../images/xavier-seal.png'
 
 export default () => (
   <Layout>
@@ -21,6 +23,7 @@ export default () => (
       <li>Kayla Siddell, Xavier University of Louisiana</li>
     </ul>
     <h2>Sponsors</h2>
-    <p>...</p>
+    <img src={TulaneLogo} style={{ "maxWidth": "250px", "display": "block", "margin": "1em auto" }} alt="Tulane University logo in green and white"></img>
+    <img src={XavierLogo} style={{ "maxWidth": "175px", "display": "block", "margin": " 1em auto" }} alt="Xavier University of Luisiana seal"></img>
   </Layout>
 )
