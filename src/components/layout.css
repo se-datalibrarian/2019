@@ -16,3 +16,7 @@ main {
 a {
   color: #CC0033;
 }
+
+iframe {
+  max-width: 100%;
+}
