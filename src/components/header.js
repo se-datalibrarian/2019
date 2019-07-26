@@ -25,7 +25,10 @@ const Header = class extends React.Component {
 
   render() {
     return (
-      <header className={styles.header}>
+      <header
+        className={styles.header}
+        onClick={() => this.state.menuOpen ? this.toggleNavMenu() : "" }
+      >
       <span className={styles.mobileMenu}>
         <IoMdMenu onClick={() => this.toggleNavMenu()}/>
       </span>
