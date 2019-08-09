@@ -23,7 +23,9 @@ export default () => (
       <li>Kayla Siddell, Xavier University of Louisiana</li>
     </ul>
     <h2>Sponsors</h2>
-    <img src={TulaneLogo} style={{ "maxWidth": "250px", "display": "block", "margin": "1em auto" }} alt="Tulane University logo in green and white"></img>
-    <img src={XavierLogo} style={{ "maxWidth": "175px", "display": "block", "margin": " 1em auto" }} alt="Xavier University of Luisiana seal"></img>
+    <div style={{ "display": "flex", "alignItems": "center", "justifyContent": "space-around", "flexWrap": "wrap" }}>
+      <img src={TulaneLogo} style={{ "maxWidth": "250px", "margin": "2em" }} alt="Tulane University logo in green and white"></img>
+      <img src={XavierLogo} style={{ "maxWidth": "175px", "margin": "2em" }} alt="Xavier University of Louisiana seal"></img>
+    </div>
   </Layout>
 )

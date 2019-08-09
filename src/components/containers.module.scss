@@ -4,17 +4,21 @@
     border-width: 0.15em;
     padding: 1em 1em;
     margin: 1em;
-}
 
-@media only screen and (max-width: 480px) {
-    .container {
-        /* border-radius: 0.2em; */
+    @media only screen and (max-width: 480px) {
         border-style: solid;
         margin: 1em 0;
     }
 }
 
+
+
 .container-announcement {
     border-color: #222222;
     background-color: #B9D9EB;
+}
+
+.container-accent {
+    border: none;
+    background-color: rgb(229, 236, 240);
 }
