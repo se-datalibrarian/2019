@@ -45,12 +45,28 @@ nav {
   display: none;
 }
 
+.mobile-menu-prevent-click {
+  display: none;
+}
+
 @media only screen and (max-width: 480px) {
   .header {
     display: grid;
     grid-template-columns: 15% 85%;
     margin-bottom: 1rem;
     padding: 1rem 1rem 0.1rem;
+  }
+
+  .mobile-menu-prevent-click {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .mobile-menu-prevent-click.active {
+    width: 100vw;
+    height: 100vh;
   }
 
   .header-title {
