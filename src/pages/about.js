@@ -3,6 +3,7 @@ import Layout from '../components/layout'
 import SEO from "../components/seo"
 import TulaneLogo from '../images/TulaneShield.png'
 import XavierLogo from '../images/xavier-seal.png'
+import IassistLogo from '../images/iassist.jpg'
 
 export default () => (
   <Layout>
@@ -26,6 +27,7 @@ export default () => (
     <div style={{ "display": "flex", "alignItems": "center", "justifyContent": "space-around", "flexWrap": "wrap" }}>
       <img src={TulaneLogo} style={{ "maxWidth": "250px", "margin": "2em" }} alt="Tulane University logo in green and white"></img>
       <img src={XavierLogo} style={{ "maxWidth": "175px", "margin": "2em" }} alt="Xavier University of Louisiana seal"></img>
+      <img src={IassistLogo} style={{ "maxWidth": "175px", "margin": "2em" }} alt="iassist logo"></img>
     </div>
   </Layout>
 )
