@@ -3,7 +3,7 @@
     border-style: solid;
     border-width: 0.15em;
     padding: 1em 1em;
-    margin: 1em;
+    margin: 1em 1em 1em;
 
     @media only screen and (max-width: 480px) {
         border-style: solid;
@@ -20,5 +20,15 @@
 
 .container-accent {
     border: none;
-    background-color: lighten(#B9D9EB, 12%);
+    background-color: lighten(#B9D9EB, 13%);
+}
+
+.container-accent-dark {
+    border: none;
+    background-color: lighten(#7C878E, 42%);
+}
+
+.container-accent-light {
+    border: none;
+    background-color: lighten(#78BE20, 48%);
 }

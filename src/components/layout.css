@@ -15,6 +15,11 @@ main {
 
 a {
   color: #CC0033;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 iframe {
