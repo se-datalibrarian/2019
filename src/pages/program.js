@@ -16,7 +16,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Thursday, Oct. 10</h2>
-    <p><em>All sessions held in Room 207 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -89,7 +89,7 @@ export default () => (
       <p className={textFormat.presenter}>Nick Ruhs (FSU)</p>
 
       <p className={textFormat.title}>Growing skills and services with a cross-departmental data team</p>
-      <p className={textFormat.presenter}>Nina Exner and Erin Carrillo (VCU)</p>
+      <p className={textFormat.presenter}>Nina Exner, Erin Carrillo, and Stacey Wahl (VCU)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
@@ -101,7 +101,7 @@ export default () => (
       <h4 className={textFormat.time}>3:45 p.m. - 4:45 p.m.</h4>
       <h4>Panel</h4>
       <p className={textFormat.title}>Practical Implementation of Data Services</p>
-      <p className={textFormat.presenter}>John P. Bourgeois (LSU), Melissa Chomintra (TU), Nina Exner (VCU), Lora Lennertz (U Ark), and Mandy Swygart-Hobaugh (GSU)
+      <p className={textFormat.presenter}>John P. Bourgeois (LSUHSC-NO), Melissa Chomintra (TU), Nina Exner (VCU), Lora Lennertz (U Ark), Mandy Swygart-Hobaugh (GSU)
       </p>
     </div>
 
@@ -117,7 +117,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Friday, Oct. 11</h2>
-    <p><em>All sessions held in Room 207 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -169,7 +169,7 @@ export default () => (
       <h4 className={textFormat.time}>1:45 p.m. - 2:45 p.m.</h4>
       <h4>Panel</h4>
       <p className={textFormat.title}>Execution of data workshops and trainings</p>
-      <p className={textFormat.presenter}>Ali Krzton (Auburn), Natalia Lopez (NCSU), Alex Saltzman (Xavier of La), Megan Sheffield and Maggie Albro (Clemson), Mandy Swygart-Hobaugh and Raeda Anderson (GSU)
+      <p className={textFormat.presenter}>Ali Krzton (Auburn), Natalia Lopez (NC State), Alex Saltzman (Xavier of La), Nick Ruhs (FSU), Megan Sheffield and Maggie Albro (Clemson), Mandy Swygart-Hobaugh and Raeda Anderson (GSU)
       </p>
     </div>
 
