@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
+import { Link } from "gatsby"
 import SEO from "../components/seo"
 import containers from "../components/containers.module.scss"
 import textFormat from "../components/text-format.module.scss"
@@ -16,7 +17,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Thursday, Oct. 10</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>). Location information such as parking and restrooms can be found on the <Link to="/about">About</Link> page.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -55,7 +56,7 @@ export default () => (
       <h4 className={textFormat.time}>11:10 a.m. - 12:30 p.m.</h4>
       <h4>Workshop</h4>
       <p className={textFormat.title}>Web scraping with Python</p>
-      <p className={textFormat.presenter}>Michelle Hayslett and Phil McDaniel (UNC Chapel Hill)</p>
+      <p className={textFormat.presenter}>le Hayslett and Philip McDaniel (UNC Chapel Hill)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
@@ -117,7 +118,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Friday, Oct. 11</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University</em> (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>)</p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>). Location information such as parking and restrooms can be found on the <Link to="/about">About</Link> page.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
