@@ -10,7 +10,7 @@ export default () => (
     <SEO title="Home" keywords={[`librarian`, `data librarian`, `research data`, `data management`, `data visualization`]} />
     <div className={`${container.container} ${container.containerAnnouncement}`}>
       <h3>The SEDLS 2019 program is online!</h3>
-      <p>Visit the <Link to="/program">Program page</Link> to view the complete schedule.</p>
+      <p>Visit the <Link to="/program">Program</Link> page to view the complete schedule.</p>
     </div>
     <Logo style={{ "maxHeight": "250px" }}/>
     <h3 style={{ "display": "block", "textAlign": "center" }}>The 2019 Southeast Data Librarian Symposium</h3>
