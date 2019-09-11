@@ -156,12 +156,6 @@ export default () => (
       <h4>Workshop</h4>
       <p className={textFormat.title}>OSF hands-on: Free beginner data sharing and preservation</p>
       <p className={textFormat.presenter}>Nina Exner and Erin Carrillo (VCU)</p>
-
-      <p className={textFormat.title}>Mapping Climate Change, Environmental Justice, and Information Literacy</p>
-      <p className={textFormat.presenter}>Sharron Radcliff (CSU East Bay)</p>
-
-      <p className={textFormat.title}>Data Management: Perspectives from Industrial, Mechanical Science and Aerospace Faculty</p>
-      <p className={textFormat.presenter}>Chris Wiley (UIUC)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
