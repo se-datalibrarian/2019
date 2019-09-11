@@ -17,7 +17,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Thursday, Oct. 10</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>). Location information such as parking and restrooms can be found on the <Link to="/about">About</Link> page.</em></p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/about">About</Link> page.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -78,6 +78,9 @@ export default () => (
 
       <p className={textFormat.title}>Users of the Texas Data Repository - sharing 2 years of data on use and future directions</p>
       <p className={textFormat.presenter}>Reid Boehm (UH)</p>
+
+      <p className={textFormat.title}>Constructing a Road to Data Services Librarianship</p>
+      <p className={textFormat.presenter}>Michael Crumpton, Jo Klein, and Nora Bird (UNC Greensboro)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccent}`}>
@@ -118,7 +121,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Friday, Oct. 11</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">map</a>). Location information such as parking and restrooms can be found on the <Link to="/about">About</Link> page.</em></p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/about">About</Link> page.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
