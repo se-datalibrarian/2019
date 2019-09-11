@@ -56,7 +56,7 @@ export default () => (
       <h4 className={textFormat.time}>11:10 a.m. - 12:30 p.m.</h4>
       <h4>Workshop</h4>
       <p className={textFormat.title}>Web scraping with Python</p>
-      <p className={textFormat.presenter}>le Hayslett and Philip McDaniel (UNC Chapel Hill)</p>
+      <p className={textFormat.presenter}>Michele Hayslett and Philip McDaniel (UNC Chapel Hill)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
