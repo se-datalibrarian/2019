@@ -49,7 +49,9 @@ const Header = class extends React.Component {
           <ListLink to="/about/">About</ListLink>
           <ListLink to="/registration/">Registration</ListLink>
           <ListLink to="/program/">Program</ListLink>
+          <ListLink to="/location-transportation/">Location/Transportation</ListLink>
           <ListLink to="/lodging/">Lodging</ListLink>
+          <ListLink to="/accessibility/">Accessibility</ListLink>
           <ListLink to="/code-of-conduct/">Code of Conduct</ListLink>
         </ul>
       </nav>
