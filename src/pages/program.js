@@ -144,6 +144,9 @@ export default () => (
 
       <p className={textFormat.title}>Data Management: Perspectives from Industrial, Mechanical Science and Aerospace Faculty</p>
       <p className={textFormat.presenter}>Chris Wiley (UIUC)</p>
+
+      <p className={textFormat.title}>Title TDB</p>
+      <p className={textFormat.presenter}>Eric Wedig (TU)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
