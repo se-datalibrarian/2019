@@ -10,7 +10,7 @@ export default () => (
     <p>All sessions will be held in Room 203 (Stibbs) in the Lavin-Bernick Center (LBC). A map of the LBC can be found <a href="https://lbc.tulane.edu/building-maps">here</a>.</p>
     <h3>Lactation/Family Rooms</h3>
     <p>
-      There are several lactation/family rooms on the Uptown Campus. The most convenient during the symposium is located on the 2nd floor of the Lavin-Bernick Center (LBC) in a private, women's single stall bathroom. The room is labeled "Lactation Station" and is equipped with a sink, chair and table with literature. Like the LBC, this room is available 24 hours a day and no key is needed to use the room but it will lock from the inside.
+      There are several lactation/family rooms on the Uptown Campus. The most convenient during the symposium is located on the 2nd floor of the LBC in a private, women's single stall bathroom. The room is labeled "Lactation Station" and is equipped with a sink, chair and table with literature. Like the LBC, this room is available 24 hours a day and no key is needed to use the room but it will lock from the inside.
     </p>
     <h3>Gender-Neutral Restrooms</h3>
     <p>The LBC has 7 single-stall, gender neutral restrooms:</p>
