@@ -17,7 +17,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Thursday, Oct. 10</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/location-transportation">Location and Transportation</Link> page.</em></p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/location-transportation">Location</Link> and <Link to="/accessibility">Accessibility</Link> pages, respectively.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -121,7 +121,7 @@ export default () => (
     </div>
 
     <h2 className={textFormat.day}>Friday, Oct. 11</h2>
-    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/about">About</Link> page.</em></p>
+    <p><em>All sessions held in Room 203 (Stibbs), Lavin-Bernick Center (LBC) (<a href="https://lbc.tulane.edu/building-maps">building map</a>) Tulane University (<a href="https://www.google.com/maps/d/u/0/viewer?mid=1EXgs0sTSoukaHur1ol8Fx6MP2J7Z5-i5&ll=29.93752673008532%2C-90.12193189999999&z=16">area map</a>). Additional location information, such as parking and restrooms, can be found on the <Link to="/location-transportation">Location</Link> and <Link to="/accessibility">Accessibility</Link> pages, respectively.</em></p>
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
@@ -145,7 +145,7 @@ export default () => (
       <p className={textFormat.title}>Data Management: Perspectives from Industrial, Mechanical Science and Aerospace Faculty</p>
       <p className={textFormat.presenter}>Chris Wiley (UIUC)</p>
 
-      <p className={textFormat.title}>Title TDB</p>
+      <p className={textFormat.title}>Tulane and Katrina More Than a Decade Later</p>
       <p className={textFormat.presenter}>Eric Wedig (TU)</p>
     </div>
 
