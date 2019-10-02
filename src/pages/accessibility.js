@@ -13,7 +13,7 @@ export default () => (
       <li>This conference is fragrance-free. Exposure to perfumes and other scented products (such as lotions, essential oils, and fabric softener) can trigger health reactions in people who have asthma, allergies, migraines, or chemical sensitivities. Please do not wear perfumes or other scented products so that chemically injured members of our community can attend.</li> 
       <li>Gender Neutral/All Gendered bathrooms will be available and accessible</li>
       <li>Lactation room will be available and accessible</li>
-      <li>A quiet room will be available</li>
+      <li>A quiet room will be available (Room 205 [Clifford])</li>
       <li>A map with accessible entrances and routes of the conference venue will be provided (forthcoming)</li>
     </ul>
     <h3>Lactation/Family Rooms</h3>
