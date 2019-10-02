@@ -7,18 +7,7 @@ export default () => (
     <SEO title="Location/Transportation" />
     <h1>Location and Transportation</h1>
     <h2>Symposium Location</h2>
-    <p>All sessions will be held in Room 203 (Stibbs) in the Lavin-Bernick Center (LBC). A map of the LBC can be found <a href="https://lbc.tulane.edu/building-maps">here</a>.</p>
-    <h3>Lactation/Family Rooms</h3>
-    <p>
-      There are several lactation/family rooms on the Uptown Campus. The most convenient during the symposium is located on the 2nd floor of the LBC in a private, women's single stall bathroom. The room is labeled "Lactation Station" and is equipped with a sink, chair and table with literature. Like the LBC, this room is available 24 hours a day and no key is needed to use the room but it will lock from the inside.
-    </p>
-    <h3>Gender-Neutral Restrooms</h3>
-    <p>The LBC has 7 single-stall, gender neutral restrooms:</p>
-    <ul>
-      <li> 2 on the garden level located next to Suite G03</li>
-      <li> 3 on the first level across from the Campus Services Customer Engagement Center</li>
-      <li>2 on the second level across from the Qatar Ballroom</li>
-    </ul>
+    <p>All sessions will be held in Room 203 (Stibbs) in the Lavin-Bernick Center (LBC). A map of the LBC can be found <a href="https://lbc.tulane.edu/building-maps">here</a>. The Thursday, October 10th evening reception will be held in the 5th Floor Gallery of the Howard-Tilton Memorial Library. Please see the map below for their locations.</p>
     <h2>Parking</h2>
     <p>
       Visitor parking can be arranged prior to arriving or in person. Please visit <a href="https://campusservices.tulane.edu/departments/parking/uptown/visiting-tulane-and-parking">Tulane Parking</a> for more information regarding parking on campus.
