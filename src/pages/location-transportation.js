@@ -8,6 +8,9 @@ export default () => (
     <h1>Location and Transportation</h1>
     <h2>Symposium Location</h2>
     <p>All sessions will be held in Room 203 (Stibbs) in the Lavin-Bernick Center (LBC). A map of the LBC can be found <a href="https://lbc.tulane.edu/building-maps">here</a>. The Thursday, October 10th evening reception will be held in the 5th Floor Gallery of the Howard-Tilton Memorial Library. Please see the map below for their locations.</p>
+    <div style={{ "display": "flex", "alignItems": "center", "justifyContent": "space-around", "flexWrap": "wrap" }}>
+      <img src={AccessMap} alt="Accessibility Map showing locations of Howard-Tilton Memorial Library and Lavin-Bernick Center"></img>
+    </div>
     <h2>Parking</h2>
     <p>
       Visitor parking can be arranged prior to arriving or in person. Please visit <a href="https://campusservices.tulane.edu/departments/parking/uptown/visiting-tulane-and-parking">Tulane Parking</a> for more information regarding parking on campus.
