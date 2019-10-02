@@ -16,7 +16,17 @@ export default () => (
       <li>A quiet room will be available</li>
       <li>A map with accessible entrances and routes of the conference venue will be provided (forthcoming)</li>
     </ul>
-
+    <h3>Lactation/Family Rooms</h3>
+    <p>
+      There are several lactation/family rooms on the Uptown Campus. The most convenient during the symposium is located on the 2nd floor of the LBC in a private, women's single stall bathroom. The room is labeled "Lactation Station" and is equipped with a sink, chair and table with literature. Like the LBC, this room is available 24 hours a day and no key is needed to use the room but it will lock from the inside.
+    </p>
+    <h3>Gender-Neutral Restrooms</h3>
+    <p>The LBC has 7 single-stall, gender neutral restrooms:</p>
+    <ul>
+      <li> 2 on the garden level located next to Suite G03</li>
+      <li> 3 on the first level across from the Campus Services Customer Engagement Center</li>
+      <li> 2 on the second level across from the Qatar Ballroom</li>
+    </ul>
     <h2>Presenters:</h2>
     <ul>
       <li>Please provide 5 access copies (print copies) of your presentations for audience members. Some should be in at least 12 pt font and the remaining at least 16 pt font</li> 
