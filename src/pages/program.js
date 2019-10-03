@@ -81,6 +81,9 @@ export default () => (
 
       <p className={textFormat.title}>Constructing a Road to Data Services Librarianship</p>
       <p className={textFormat.presenter}>Michael Crumpton, Jo Klein, and Nora Bird (UNC Greensboro)</p>
+
+      <p className={textFormat.title}>Data services from scratch: You can do it!</p>
+      <p className={textFormat.presenter}>David Rachlin (NC A&T)</p>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccent}`}>
