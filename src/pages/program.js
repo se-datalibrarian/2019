@@ -9,6 +9,7 @@ export default () => (
   <Layout>
     <SEO title="Program" />
     <h1>Program</h1>
+    <p><strong>All presentation slides are available at: <a href="https://bit.ly/31Z36Jy">bit.ly/31Z36Jy</a></strong></p>
     <h2 className={textFormat.day}>Wednesday, Oct. 9</h2>
     <div className={`${containers.container} ${containers.containerAccentLight}`}>
       <h4 className={textFormat.time}>5:00 p.m. - 7:00 p.m.</h4>
@@ -21,7 +22,7 @@ export default () => (
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
-      <h4>Breakfast/Registration</h4>
+      <h4>Continental Breakfast/Registration</h4>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccent}`}>
@@ -128,7 +129,7 @@ export default () => (
 
     <div className={`${containers.container} ${containers.containerAccentDark}`}>
       <h4 className={textFormat.time}>8:30 a.m. - 9:00 a.m.</h4>
-      <h4>Breakfast/Registration</h4>
+      <h4>Continental Breakfast/Registration</h4>
     </div>
 
     <div className={`${containers.container} ${containers.containerAccent}`}>
