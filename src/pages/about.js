@@ -15,6 +15,13 @@ export default () => (
     <p>
       In addition to learning about new work in the field, attendees will have the opportunity to network and build partnerships with regional colleagues. It is open to all who wish to attend, including students, data managers and scientists, and those situated outside the Southeast.
     </p>
+    <h2>Program Planning</h2>
+    <p>
+      The symposium is organized by a volunteer committee of librarians working in the field of data librarianship. Symposium themes are based on responses from an interest survey provided to previous SEDLS attendees and relevant data librarianship topics identified by the planning committee.
+    </p>
+    <p>
+      The program is developed based on selected proposals submitted by the community. All proposal abstracts are peer reviewed by the planning committee under a single-blind review protocol blind to author and institution.
+    </p>
     <h2>Planning Committee</h2>
     <ul>
       <li>Melissa Chomintra, Tulane University</li>
